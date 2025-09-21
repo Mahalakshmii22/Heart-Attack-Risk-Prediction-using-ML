@@ -2,9 +2,9 @@
 
 A simple machine learning project to predict the likelihood of a heart attack based on patient clinical data. This project helps demonstrate the use of data preprocessing, feature engineering, model building, and evaluation for healthcare analytics.
 
----
 
-## 🚀 Features
+
+ ## Features
 
 - Predicts heart attack risk using clinical data (e.g., age, cholesterol, blood pressure, etc.)
 - Data preprocessing and cleaning
@@ -13,16 +13,16 @@ A simple machine learning project to predict the likelihood of a heart attack ba
 - Model evaluation and selection
 - Easy-to-understand predictions for new data
 
----
 
-## 📊 Dataset
+
+## Dataset
 
 - The dataset used is the [Heart Disease UCI dataset](https://www.kaggle.com/ronitf/heart-disease-uci) from Kaggle.
 - You can download it and place it in the project directory as `heart.csv`.
 
----
 
-## 🛠️ Requirements
+
+##  Requirements
 
 - Python 3.x
 - pandas
@@ -37,9 +37,8 @@ Install with:
 pip install pandas numpy scikit-learn matplotlib seaborn
 ```
 
----
 
-## 💻 Usage
+##  Usage
 
 1. **Clone the repository:**
     ```bash
@@ -56,9 +55,9 @@ pip install pandas numpy scikit-learn matplotlib seaborn
       python heart_attack_predictor.py
       ```
 
----
 
-## 📝 Project Steps
+
+##  Project Steps
 
 1. **Data Loading:**  
    Load clinical data from CSV.
@@ -78,24 +77,18 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 6. **Prediction:**  
    Predict heart attack risk for new patients.
 
----
-
-## 📈 Example Output
+##  Example Output
 
 - Accuracy of models
 - Feature importance graphs
 - Confusion matrix and ROC curve
 
----
 
-## 🙋‍♀️ Author
+
+##  Author
 
 Mahalakshmi  
 - [GitHub](https://github.com/Mahalakshmii22)
 - [LinkedIn](https://www.linkedin.com/in/maha-lakshmi-b)
 
----
 
-## 📄 License
-
-This project is for educational purposes only.
